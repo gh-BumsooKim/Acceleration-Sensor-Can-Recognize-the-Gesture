@@ -4,6 +4,8 @@
 
 Keyword : Image-based Deep Learning, Acceleration Sensor, Wavelet Transformation, Gesture Recognition
 
+*\*If you customize this project, click [Here!](GETTING_STARTED.md)*
+
 # Abstraction
 ## A. System Design
 
