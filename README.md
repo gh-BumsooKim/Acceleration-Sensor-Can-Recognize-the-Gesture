@@ -7,6 +7,10 @@ Keyword : Image-based Deep Learning, Acceleration Sensor, Wavelet Transformation
 
 *\*If you customize this project, click [Here!](GETTING_STARTED.md)*
 
+<p align="center">
+  <img src="imgs/demo_01.gif">
+</p>
+
 # Abstraction
 ## A. System Design
 
